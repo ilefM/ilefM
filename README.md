@@ -1,7 +1,4 @@
 #### Hi everyone I'm Ilef and welcome to my profile !
-- Currently studying in computer science
-- I love coding and learning about web developement
-- Checkout my projects
 
 [![Ilef's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilefM&show_icons=true&layout=compact&theme=nord)](https://github.com/ilefM)
 
